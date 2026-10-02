@@ -30,3 +30,9 @@ python scripts/fetch_uniprot.py
 python scripts/fetch_pdb.py
 python scripts/merge_all.py
 python scripts/generate_report.py
+
+## 联系我
+
+- GitHub: https://github.com/ronyuxuan
+- 邮箱: ronyuxuan@126.com
+- 有具体需求？欢迎在仓库提 Issue，或直接发邮件。
