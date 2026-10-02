@@ -1,0 +1,8 @@
+column,dtype,missing,description
+symbol,string,0,基因符号，靶点唯一标识
+globalScore,float,0,Open Targets 综合证据评分，0-1，越高越可能是AD靶点
+clinicalPrecedence,float,65,临床先例评分，反映是否有已有药物针对该靶点
+uniprot_id,string,0,UniProt 蛋白质唯一标识
+length,int,0,蛋白质序列长度（氨基酸数）
+n_pdb,int,0,该蛋白质在PDB中的3D结构数量
+has_structure,bool,0,是否至少有一个PDB结构
